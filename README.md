@@ -27,3 +27,5 @@ Log.warn('test','warn');
 Log.debug('test','debug');
 Log.error('test','error');
 ```
+
+![Sample](http://i.imgur.com/I1BAn9o.png)
