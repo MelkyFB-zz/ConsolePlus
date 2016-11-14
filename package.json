@@ -1,0 +1,39 @@
+{
+  "name": "consoleplus",
+  "version": "0.1.0",
+  "description": "An Advanced Console Control for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MelkyFB/ConsolePlus.git"
+  },
+  "keywords": [
+    "console",
+    "debug",
+    "info",
+    "error",
+    "control",
+    "nodejs",
+    "node",
+    "color",
+    "terminal",
+    "editor",
+    "debugger",
+    "debugg",
+    "development",
+    "helper"
+  ],
+  "author": "melkysalem at gmail dot com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/MelkyFB/ConsolePlus/issues"
+  },
+  "homepage": "https://github.com/MelkyFB/ConsolePlus#readme",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
