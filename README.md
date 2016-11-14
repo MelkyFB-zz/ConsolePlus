@@ -1,10 +1,10 @@
 # ConsolePlus
 An Advanced Console Control for Nodejs.
 ##TODO
-[X] Log
-[X] Color Log
-[X] Prefixed Log
-[ ] ...
+- [X] Log
+- [X] Color Log
+- [X] Prefixed Log
+- [ ] ...
 
 ```
 var ConsolePlus = require('./index');
